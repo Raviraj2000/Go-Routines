@@ -1,3 +1,4 @@
+//Use 'go run main.go' to run this code.
 package main
 
 import (
